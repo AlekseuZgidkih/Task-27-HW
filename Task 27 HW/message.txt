@@ -1,2 +1,0 @@
-Vladik	 anna	hello, ellie
-anna	 Vladik	hello, friend
